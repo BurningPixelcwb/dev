@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-                <h1>BIRIBINHA ATOMICA</h1>
+                <h1>Ta dando tudo certo porra! \o/</h1>
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
